@@ -23,3 +23,6 @@ Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías y 
 • Metodología BEM para una mejor organización y mantenimiento del código CSS.
 
 • Buenas prácticas de accesibilidad y diseño adaptable.
+
+**GitHub Pages Link**
+https://amorfo2112.github.io/web_project_homeland/
